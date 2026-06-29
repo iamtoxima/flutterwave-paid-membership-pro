@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * @wordpress-plugin
  * Plugin Name:       Flutterwave for Paid Membership Pro

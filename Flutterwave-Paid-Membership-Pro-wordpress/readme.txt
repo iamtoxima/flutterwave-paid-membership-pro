@@ -66,7 +66,7 @@ They remain pending and do not activate membership.
 
 == Credits ==
 
-This plugin is a modernized and secured fork of the legacy Rave Flutterwave gateway for Paid Memberships Pro. The current maintained version is by Toxima.
+Maintained by Toxima. Based on an earlier GPL Flutterwave PMPro integration.
 
 == Changelog ==
 
@@ -84,4 +84,5 @@ This plugin is a modernized and secured fork of the legacy Rave Flutterwave gate
 * Replaced order deletion with pending-order cancellation.
 * Moved checkout emails to a scheduled WordPress event.
 * Added 10-minute verification response cache with invalidation after successful activation.
+
 

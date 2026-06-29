@@ -73,9 +73,10 @@ Recurring memberships are intentionally blocked in this version until tokenized 
 
 ## Credits
 
-This plugin is a modernized and secured fork of the legacy Rave Flutterwave gateway for Paid Memberships Pro. The current maintained version is by Toxima.
+Maintained by Toxima. Based on an earlier GPL Flutterwave PMPro integration.
 
 ## License
 
 GPL-2.0+
+
 
