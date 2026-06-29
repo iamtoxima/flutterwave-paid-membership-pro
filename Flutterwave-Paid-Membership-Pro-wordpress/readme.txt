@@ -1,9 +1,9 @@
-﻿=== Flutterwave for Paid Membership Pro ===
+=== Flutterwave for Paid Membership Pro ===
 Contributors: iamtoxima
 Tags: flutterwave, payment gateway, paid memberships pro, pmpro, wordpress, membership payments
 Requires at least: 5.8
 Tested up to: 6.5
-Stable tag: 2.0.1
+Stable tag: 2.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -69,6 +69,10 @@ They remain pending and do not activate membership.
 Maintained by Toxima. Based on an earlier GPL Flutterwave PMPro integration.
 
 == Changelog ==
+
+= 2.0.2 =
+* Removed UTF-8 BOM from the main plugin file to prevent header output before WordPress sets login/session cookies.
+* Rebuilt plugin ZIP package with BOM-free PHP source.
 
 = 2.0.1 =
 * Updated public author metadata for Toxima.

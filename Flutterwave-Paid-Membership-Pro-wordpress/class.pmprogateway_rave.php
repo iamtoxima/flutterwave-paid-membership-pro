@@ -4,7 +4,7 @@
  * Plugin Name:       Flutterwave for Paid Membership Pro
  * Plugin URI:        https://github.com/iamtoxima
  * Description:       Secure Flutterwave payment gateway for Paid Memberships Pro. Maintained by Toxima.
- * Version:           2.0.1
+ * Version:           2.0.2
  * Author:            Toxima
  * Author URI:        https://toxima.com.ng
  * License:           GPL-2.0+
@@ -13,7 +13,7 @@
 
 defined('ABSPATH') || exit;
 
-define('Rave_Flutterwave_PMPro', '2.0.1');
+define('Rave_Flutterwave_PMPro', '2.0.2');
 
 if (!function_exists('KKD_rave_pmp_gateway_load')) {
   add_action('plugins_loaded', 'KKD_rave_pmp_gateway_load', 20);
